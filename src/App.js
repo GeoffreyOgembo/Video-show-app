@@ -22,8 +22,7 @@ const App = () => {
       <Navbar />
       <div className="container">
         <Routes>
-          {/* <Route exact path="/" element= {login ? <HomePage/> : <LoginPage setLogin = {setLogin} login = {login}/>}/> */}
-          {/* <Route element = {<ProtectedRoutes/>}> */}
+          
           <Route exact path="/" element={<HomePage/>} />
           <Route exact path="*" element={<FourOhFour/>} />
           

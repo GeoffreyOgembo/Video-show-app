@@ -15,9 +15,9 @@ const ShowsState = (props) => {
     singleShow: {},
     loading: false,
   };
-// useEffect(()=>{
-//   fetch("https://api.tvmaze.com/shows/180/alternatelists")
-// })
+useEffect(()=>{
+  fetch("https://localhost:3000/post/1")
+})
 
   const [state, dispatch] = useReducer(ShowsReducer, initialState);
 
