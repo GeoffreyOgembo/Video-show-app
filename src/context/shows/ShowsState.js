@@ -15,9 +15,9 @@ const ShowsState = (props) => {
     singleShow: {},
     loading: false,
   };
-useEffect(()=>{
-  fetch("http://localhost:3000/post/82")
-})
+// useEffect(()=>{
+//   fetch("http://localhost:3000/post/82")
+
   const [state, dispatch] = useReducer(ShowsReducer, initialState);
 
   const searchShows = async (searchTerm) => {
