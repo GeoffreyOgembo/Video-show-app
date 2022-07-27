@@ -12,6 +12,9 @@ const Homepage = () => {
   const showsContext = useContext(ShowsContext);
   const { loading, shows } = showsContext;
 
+  
+            
+
   return (
     <div className="homepage">
       <Searchbar />
@@ -26,7 +29,7 @@ const Homepage = () => {
               image={
                 item.show.image
                   ? item.show.image.medium
-                  : "https://www.publicdomainpictures.net/pictures/280000/velka/not-found-image-15383864787lu.jpg"
+                  : "https://themeforest.net/item/nine-studio-a-film-maker-studio-agency-blogger-wordpress-theme/19303651.jpg"
               }
               name={item.show.name}
               rating={
