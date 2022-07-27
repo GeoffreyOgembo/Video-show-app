@@ -6,7 +6,7 @@ This is the name of our website.
 
 DESCRIPTION
 
-This is a website that helps you Search for different movies of your choice either by typing the name on the search provided or id and the movie will be displayed in the screen whereby you can tab and get more description and category of the movie. It is convenient to use and makes searching efficient.
+The App can help one search for a movie by name or by Id, tab to the movie and see a brief description of it and also the category of the movie, the app is able to show the ratingsof the movie,the status, and the official site. 
 
 FEATURES
 
