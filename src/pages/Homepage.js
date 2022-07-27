@@ -29,7 +29,7 @@ const Homepage = () => {
               image={
                 item.show.image
                   ? item.show.image.medium
-                  : "https://themeforest.net/item/nine-studio-a-film-maker-studio-agency-blogger-wordpress-theme/19303651.jpg"
+                 : "https://themeforest.net/item/nine-studio-a-film-maker-studio-agency-blogger-wordpress-theme/19303651.jpg"
               }
               name={item.show.name}
               rating={
