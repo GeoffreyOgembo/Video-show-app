@@ -1,4 +1,4 @@
-import { useEffect, useReducer } from "react";
+import {  useReducer } from "react";
 import axios from "axios";
 import ShowsContext from "./showsContext";
 import ShowsReducer from "./showsReducer";
@@ -15,9 +15,7 @@ const ShowsState = (props) => {
     singleShow: {},
     loading: false,
   };
-useEffect(()=>{
-  fetch("https://localhost:3000/post/1")
-})
+
 
   const [state, dispatch] = useReducer(ShowsReducer, initialState);
 
