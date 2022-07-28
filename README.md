@@ -19,6 +19,8 @@ REQUIREMENTS
 
 LIVE LINK:
 
+https://GeoffreyOgembo.github.io/Video-show-app
+
 INSTALLATION
 
 For one to use the website, you will have to git clone the repository link into your visual code and run npm install,npm start and before npm start make sure your server is running. To start the serve run json-server --watch db.json. • This is achieved using: • GIT CLONE:git@github.com:GeoffreyOgembo/Video-show-app.git
