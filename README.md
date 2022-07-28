@@ -6,7 +6,8 @@ This is the name of our website.
 
 DESCRIPTION
 
-The App can help one search for a movie by name or by Id, tab to the movie and see a brief description of it and also the category of the movie, the app is able to show the ratingsof the movie,the status, and the official site. 
+The App can help one search for a movie by name or by Id, tab to the movie and see a brief description of it and also the category of the movie, the app is able to show the ratingsof the movie,the status, and the official site.
+
 
 FEATURES
 
