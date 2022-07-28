@@ -37,7 +37,7 @@ const Singlepage = ({ match }) => {
             src={
               singleShow.image
                 ? singleShow.image.medium
-                : "https://www.publicdomainpictures.net/pictures/280000/velka/not-found-image-15383864787lu.jpg"
+                : "https://codentheme.com/tags/laravel-movie-website/"
             }
             alt={singleShow.name}
           />
