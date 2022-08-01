@@ -6,8 +6,7 @@ This is the name of our website.
 
 DESCRIPTION
 
-The App can help one search for a movie by name or by Id, tab to the movie and see a brief description of it and also the category of the movie, the app is able to show the ratingsof the movie,the status, and the official site.
-
+The App can help one search for a movie by name or by Id, tab to the movie and see a brief description of it and also the category of the movie, the app is able to show the ratingsof the movie,the status, and the official site. 
 
 FEATURES
 
@@ -15,7 +14,8 @@ As a user of the application,you will be able to: *Search movies of your choice,
 provided. 
 
 screenshots
-![Screenshot from 2022-06-19 15-41-13](https://user-images.githubusercontent.com/106180266/181951080-08141a9d-2db9-47ed-863a-b966ccddf83c.png)
+![Screenshot from 2022-08-01 09-52-32](https://user-images.githubusercontent.com/106180266/182105494-5b09ece0-423d-46d1-8e48-493827bdbef8.png)
+
 
 
 REQUIREMENTS
@@ -23,8 +23,6 @@ REQUIREMENTS
 *Acces to internet *Access to a computer or a mobile phone.
 
 LIVE LINK:
-
-https://GeoffreyOgembo.github.io/Video-show-app
 
 INSTALLATION
 
