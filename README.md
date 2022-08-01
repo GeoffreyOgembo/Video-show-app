@@ -12,7 +12,11 @@ The App can help one search for a movie by name or by Id, tab to the movie and s
 FEATURES
 
 As a user of the application,you will be able to: *Search movies of your choice, know the category of the movie and brief description about the movies
-provided.
+provided. 
+
+screenshots
+![Screenshot from 2022-06-19 15-41-13](https://user-images.githubusercontent.com/106180266/181951080-08141a9d-2db9-47ed-863a-b966ccddf83c.png)
+
 
 REQUIREMENTS
 

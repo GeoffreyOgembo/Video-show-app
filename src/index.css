@@ -177,6 +177,7 @@ img {
 .info__name {
   font-size: 1rem;
   padding: 5px;
+ 
 }
 
 .info__rating {
@@ -197,7 +198,7 @@ img {
 
 .singleshow__info p {
   margin: 1rem 0;
-  color: #14d414;
+  color: #eaf2ea;
   font-size: medium;
   font-weight: bold;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
