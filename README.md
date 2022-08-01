@@ -14,8 +14,7 @@ As a user of the application,you will be able to: *Search movies of your choice,
 provided. 
 
 screenshots
-![Screenshot from 2022-08-01 09-52-32](https://user-images.githubusercontent.com/106180266/182105494-5b09ece0-423d-46d1-8e48-493827bdbef8.png)
-
+![image](https://user-images.githubusercontent.com/106180266/182107332-8938247d-058c-4cc3-b13a-be97793610ad.png)
 
 
 REQUIREMENTS
