@@ -14,7 +14,7 @@ As a user of the application,you will be able to: *Search movies of your choice,
 provided. 
 
 screenshots
-![image](https://user-images.githubusercontent.com/106180266/182108794-e73ff640-485d-4c1f-92f0-12b35c12450f.png)
+
 
 
 
@@ -23,6 +23,8 @@ REQUIREMENTS
 *Acces to internet *Access to a computer or a mobile phone.
 
 LIVE LINK:
+
+https://geoffreyogembo.github.io/Video-show-app
 
 INSTALLATION
 
