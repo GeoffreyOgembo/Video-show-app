@@ -16,8 +16,6 @@ provided.
 screenshots
 
 
-
-
 REQUIREMENTS
 
 *Acces to internet *Access to a computer or a mobile phone.
